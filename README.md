@@ -47,4 +47,4 @@ $ yarn install
 $ yarn start
 ```
 ---
-Desenvolvido 💜 por Joao Roberto Lopes da Silva, obrigado pra Daniele Leao pelo guia de Readmes, de ❤️.
+Desenvolvido 💜 por Joao Roberto Lopes da Silva, obrigado pra [Daniele Leao](https://github.com/danileao) pelo guia de Readmes, de ❤️.
